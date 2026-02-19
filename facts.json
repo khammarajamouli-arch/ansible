@@ -1,4 +1,4 @@
-ok: [localhost] => {
+{
     "msg": {
         "all_ipv4_addresses": [
             "172.31.27.175"
