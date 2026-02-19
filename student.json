@@ -1,0 +1,21 @@
+{
+    "name": "Rajamouli Khamma",
+    "dob": "01-10-1995",
+    "addresses": [
+        {
+            "type": "current",
+            "doono": "24-236",
+            "street": "Sanjeeva nagar",
+            "city": "Kurnool",
+            "pin": 518001
+        },
+        {
+            "type": "perm",
+            "doono": "24-236",
+            "street": "Sanjeeva nagar",
+            "city": "Kurnool",
+            "pin": 518001
+        }
+    ],
+    "skills": ["java", "devops", "cloud"]
+}
